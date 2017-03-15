@@ -62,4 +62,6 @@ Organization :
 
 ## 4 : Linshare
 
+Linshare is a collaborative software from Linagora. It allows you to share file with other people. You can manage access rights, as well as share expirency. LinShare team would like to make it more easy for the community to use its software. To do so, you will prepare packages for debian and RPM.
 
+Keywords : LinShare, packages
